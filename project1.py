@@ -7,8 +7,7 @@ def roll():
     roll = random.randint(min_value, max_value)
 
     return roll
-    vjbjskmf
-
+cvjkml
 
 while True:
     players = input("Enter the number of players (2 - 4): ")
